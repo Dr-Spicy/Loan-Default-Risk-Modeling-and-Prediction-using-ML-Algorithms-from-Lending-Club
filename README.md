@@ -1,4 +1,4 @@
-# Machine Learning by Dr.Brian Ziebart
+# Machine Learning with Prof.Brian Ziebart
 
 
 
